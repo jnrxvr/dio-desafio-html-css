@@ -1,4 +1,4 @@
-# repositório do Desafio de Projeto sobre HTML e CSS do Bootcamp da DIO em parceria com a TQI.
+# Repositório do Desafio de Projeto sobre HTML e CSS do Bootcamp da DIO em parceria com a TQI.
 
 Nesse desafio foram estudados os conceitos de 'transitions' e 'keyframes'.
 
